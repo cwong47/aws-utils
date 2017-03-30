@@ -11,6 +11,8 @@ Sick and tired of clicking around AWS console! :P
   * Searches thru AWS EC2 entries and display specific fields in pretty CSV formats which can then be parsed ;)
 3. **elblookup**
   * Gets ELB health status and info.
+4. **ecslookup**
+  * Get ECS cluster/service status/info, including ec2 instance of service container!
 
 # Setup
 Copy the scripts to either `$HOME/bin` or `/usr/local/bin`, or add this repo to your `$PATH`.
